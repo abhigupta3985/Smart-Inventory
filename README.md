@@ -29,7 +29,7 @@ smartinventory-app/
 
 ## Video Walkthrough of the project
 
-[link here](https://youtu.be/K-d7B_PtLoQ)
+[click here](https://youtu.be/K-d7B_PtLoQ)
 
 
 
