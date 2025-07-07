@@ -10,7 +10,7 @@ Frontend
 
 ## Deployed App
 
-Frontend: 
+Frontend: https://smart-inventory-2025.netlify.app/
 
 ## Directory Structure
 
@@ -29,7 +29,7 @@ smartinventory-app/
 
 ## Video Walkthrough of the project
 
-link here
+[link here](https://youtu.be/K-d7B_PtLoQ)
 
 
 
